@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/schedule_journey"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Schedule Journey" />
+
+        <item
+            android:id="@+id/offer_lift"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Offer A Ride" />
+        <item
+            android:id="@+id/ask_lift"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Ask For Ride" />
+
+        <item
+            android:id="@+id/free_courney"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Free Rides" />
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Settings" />
+        <item
+            android:id="@+id/invite_to_get_free"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Invite To Get Free Ride" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Logout" />
+        </group>
+
+</menu>

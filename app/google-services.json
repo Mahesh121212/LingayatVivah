@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "402502983588",
+    "firebase_url": "https://lingayatvivah-1b59b.firebaseio.com",
+    "project_id": "lingayatvivah-1b59b",
+    "storage_bucket": "lingayatvivah-1b59b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402502983588:android:24a08f8ba54cb4a7",
+        "android_client_info": {
+          "package_name": "com.mahesh.com.lingayatvivah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402502983588-3stfsbb0olrv1tto7ndm3kju77fpd5su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMUazFYIxHuPQJI6oV2y0Xz_OeE8sJhU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
